@@ -1,0 +1,17 @@
+/**
+********************************
+* IDRAW LIBRARY PROJECT
+
+* D'Haenens Arnor
+* http://arnor.be
+* http://github.com/charad
+********************************
+**/
+
+Dit project heb ik ontwikkeld tijdens mijn stage.
+Het is een 'mobile drawing application' dat zowel op Android als iOS kan gebruikt worden. 
+
+Aangezien dit een pure ActionScript 3.0 bibliotheek is, kan je met dezelfde code ook het web als de desktop bereiken. 
+
+grtz
+Arnor
